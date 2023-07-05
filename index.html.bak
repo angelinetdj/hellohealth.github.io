@@ -1,0 +1,1089 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- ========== Meta Tags ========== -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="MediHub - Medical & Health Template">
+
+    <!-- ========== Page Title ========== -->
+    <title>hellohealth - Medical & Health Template</title>
+
+    <!-- ========== Favicon Icon ========== -->
+    <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
+
+    <!-- ========== Start Stylesheet ========== -->
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="assets/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="assets/css/flaticon-set.css" rel="stylesheet" />
+    <link href="assets/css/elegant-icons.css" rel="stylesheet" />
+    <link href="assets/css/magnific-popup.css" rel="stylesheet" />
+    <link href="assets/css/owl.carousel.min.css" rel="stylesheet" />
+    <link href="assets/css/owl.theme.default.min.css" rel="stylesheet" />
+    <link href="assets/css/animate.css" rel="stylesheet" />
+    <link href="assets/css/bootsnav.css" rel="stylesheet" />
+    <link href="style.css" rel="stylesheet">
+    <link href="assets/css/responsive.css" rel="stylesheet" />
+    <!-- ========== End Stylesheet ========== -->
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="assets/js/html5/html5shiv.min.js"></script>
+      <script src="assets/js/html5/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- ========== Google Fonts ========== -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,500,600,700,800" rel="stylesheet">
+
+</head>
+
+<body>
+
+    <!-- Preloader Start -->
+    <div class="se-pre-con"></div>
+    <!-- Preloader Ends -->
+
+    <!-- Start Header Top 
+    ============================================= -->
+    <div class="top-bar-area inline inc-border">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 address-info text-left">
+                    <div class="info box">
+                        <ul>
+                            <li>
+                                <i class="fas fa-map-marker-alt"></i> Jakarta, Indonesia
+                            </li>
+                            <li>
+                                <i class="fas fa-envelope-open"></i> hellohealth@gmail.com
+                            </li>
+                            <li>
+                                <i class="fas fa-phone"></i> +62 897 7890
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md-4 bar-btn text-right">
+                    <a href="#">Make Appoinment</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Header Top -->
+
+    <!-- Header 
+    ============================================= -->
+    <header id="home">
+
+        <!-- Start Navigation -->
+        <nav class="navbar navbar-default attr-border navbar-sticky bootsnav">
+
+            <!-- Start Top Search -->
+            <div class="container">
+                <div class="row">
+                    <div class="top-search">
+                        <div class="input-group">
+                            <form action="#">
+                                <input type="text" name="text" class="form-control" placeholder="Search">
+                                <button type="submit">
+                                    <i class="fas fa-search"></i>
+                                </button>  
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Top Search -->
+
+            <div class="container">
+
+                <!-- Start Atribute Navigation -->
+                <div class="attr-nav">
+                    <ul>
+                        <li class="search"><a href="#"><i class="fa fa-search"></i></a></li>
+                        <li class="profile"><a href="login.html"><i class="fa fa-user"></i></a></li>
+                    </ul>
+                </div>        
+                <!-- End Atribute Navigation -->
+
+                <!-- Start Header Navigation -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
+                        <i class="fa fa-bars"></i>
+                    </button>
+                    <a class="navbar-brand " href="index.html">
+                        <img src="assets/img/hello2.png" class="logo" alt="Logo">
+                    </a>
+                </div>
+                <!-- End Header Navigation -->
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="navbar-menu">
+                    <ul class="nav navbar-nav navbar-right" data-in="#" data-out="#">
+                       <li>
+    <a href="#">Home</a>
+</li>
+
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle active" data-toggle="dropdown" >Content</a>
+                            <ul class="dropdown-menu">
+                                
+                                <li><a href="#obat">Medicine Information and Delivery</a></li>
+                                <li><a href="#team">contact & access to doctor</a></li>
+                                <li><a href="#lokasi">nearest hospital services</a></li>
+                                <li><a href="#about">emergency hotlines & care center</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle active" data-toggle="dropdown" >About Us</a>
+                            <ul class="dropdown-menu">
+                                <li><a href="#about">Customer Services</a></li>
+                                <li><a href="#team">Our Team</a></li>
+                                <li><a href="#testimoni">Review and Feedback</a></li>
+                            
+                            </ul>
+                        </li>
+                        
+                        </li>  
+                
+                                    </ul>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            </ul>
+                        </li>
+                        <li>
+
+                        </li>
+                    </ul>
+                </div><!-- /.navbar-collapse -->
+            </div>
+
+        </nav>
+        <!-- End Navigation -->
+
+    </header>
+    <!-- End Header -->
+
+    <!-- Start Banner 
+    ============================================= -->
+    <div class="banner-area heading-exchange text-dark">
+        <div id="bootcarousel" class="carousel inc-top-heading slide carousel-fade animate_text" data-ride="carousel">
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner carousel-zoom">
+                <div class="item active">
+                    <div class="slider-thumb bg-cover" style="background-image: url(assets/img/martha-dominguez-de-gouveia-KF-h9HMxRKg-unsplash.jpg);"></div>
+                    <div class="box-table">
+                        <div class="box-cell">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-8">
+                                        <div class="content">
+                                            <h1 data-animation="animated fadeInUp">Best <span>Care</span></h1>
+                                            <h2 data-animation="animated fadeInDown">Your health is our priority</h2>
+                                            <p data-animation="animated slideInUp">
+                                                The ourselves suffering the sincerity. Inhabit her manners adapted age certain.<br> Debating offended at branched striking be subjects.
+                                            </p>
+                                            <a data-animation="animated slideInUp" class="btn btn-theme effect btn-md" href="#">View Details</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="slider-thumb bg-cover" style="background-image: url(assets/img/BKG.jpg);"></div>
+                    <div class="box-table">
+                        <div class="box-cell">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-8">
+                                        <div class="content">
+                                            <h1 data-animation="animated fadeInUp">Best <span>Technology</span></h1>
+                                            <h2 data-animation="animated fadeInDown">Affordable solution by better technology</h2>
+                                            <p data-animation="animated slideInUp">
+                                                The ourselves suffering the sincerity. Inhabit her manners adapted age certain.<br> Debating offended at branched striking be subjects.
+                                            </p>
+                                            <a data-animation="animated slideInUp" class="btn btn-theme effect btn-md" href="#">View Details</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="slider-thumb bg-cover" style="background-image: url(assets/img/BKG2.jpg);"></div>
+                    <div class="box-table">
+                        <div class="box-cell">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-8">
+                                        <div class="content">
+                                            <h1 data-animation="animated fadeInUp"><span>Best</span> specialist</h1>
+                                            <h2 data-animation="animated fadeInDown">The country's best heart specialist</h2>
+                                            <p data-animation="animated slideInUp">
+                                                The ourselves suffering the sincerity. Inhabit her manners adapted age certain.<br> Debating offended at branched striking be subjects.
+                                            </p>
+                                            <a data-animation="animated slideInUp" class="btn btn-theme effect btn-md" href="#">View Details</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Wrapper for slides -->
+
+            <!-- Left and right controls -->
+            <a class="left carousel-control" href="#bootcarousel" data-slide="prev">
+                <i class="fa fa-angle-left"></i>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#bootcarousel" data-slide="next">
+                <i class="fa fa-angle-right"></i>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </div>
+    <!-- End Banner -->
+
+    <!-- Start About
+    ============================================= -->
+    <div class="about-area default-padding" id="lokasi">
+        <div class="container">
+            <div class="row">
+                <div class="about-items">
+                    <div class="col-md-6 info">
+                        <h4>Has been working since 2000</h4>
+                        <h2>A Great Place to Work. A Great Place to Receive Care. Leading Medicine.</h2>
+                        <p>
+                            However venture pursuit he am mr cordial. Forming musical am hearing studied be luckily. Ourselves for determine attending how led gentleman sincerity. Valley afford uneasy joy she thrown though bed set. In me forming general prudent on country carried. Behaved an or suppose justice. Seemed whence how son rather easily and change missed.
+                        </p>
+                        <div class="bottom">
+                            <div class="video">
+                                <a href="https://www.youtube.com/watch?v=5vY-D42NFP4" class="popup-youtube relative theme video-play-button item-center">
+                                    <i class="fa fa-play"></i>
+                                </a>
+                            </div>
+                            <div class="content">
+                                <h4>Let’s see our intro video</h4>
+                                <p>
+                                    If your smile is not becoming to you, then you should be coming to me!
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 tabs-items">
+                        <!-- Tab Nav -->
+                        <ul class="nav nav-pills">
+                            <li class="active">
+                                <a data-toggle="tab" href="#tab1" aria-expanded="true">
+                                    <i class="fas fa-notes-medical"></i> Consultation
+                                </a>
+                            </li>
+                            <li>
+                                <a data-toggle="tab" href="#tab2" aria-expanded="false">
+                                    <i class="fas fa-map-marker-alt"></i> Location
+                                </a>
+                            </li>
+                            <li>
+                                <a data-toggle="tab" href="#tab3" aria-expanded="false">
+                                    <i class="fas fa-clock"></i> Opening Hour
+                                </a>
+                            </li>
+                        </ul>
+                        <!-- End Tab Nav -->
+                        <!-- Start Tab Content -->
+                        <div class="tab-content tab-content-info">
+                            <!-- Single Item -->
+                            <div id="tab1" class="tab-pane fade active in">
+                                <div class="info title">
+                                    <h3>Consulted by experienced doctors</h3>
+                                    <p>
+                                        Calling nothing end fertile for venture way boy. Esteem spirit temper too say adieus who direct esteem. It esteems luckily mr or picture placing drawing no. Apartments frequently or motionless on reasonable projecting expression. Way mrs end gave tall walk fact bed. 
+                                    </p>
+                                    <p>
+                                        Placing assured be if removed it besides on. Far shed each high read are men over day. Afraid we praise lively he suffer family estate is. Ample order up in of in ready. Timed blind had now those ought set often which. Or snug dull he show more true wish. No at many deny away miss evil. On in so indeed spirit an mother. Amounted old strictly but marianne admitted. People former is remove remain we praise
+                                    </p>
+                                    <a class="btn btn-theme border btn-md" href="#">Make Appoinment</a>
+                                </div>
+                            </div>
+                            <!-- End Single Item -->
+
+                            <!-- Single Item -->
+                            <div id="tab2" class="tab-pane fade">
+                                <div class="info title">
+                                    <h3>Our location</h3>
+                                    <p>
+                                        Calling nothing end fertile for venture way boy. Esteem spirit temper too say adieus who direct esteem. It esteems luckily mr or picture placing drawing no. Apartments frequently or motionless on reasonable projecting expression. Way mrs end gave tall walk fact bed. 
+                                    </p>
+                                    <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d14767.262289338461!2d70.79414485000001!3d22.284975!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1424308883981"></iframe>
+                                </div>
+                            </div>
+                            <!-- End Single Item -->
+
+                            <!-- Single Item -->
+                            <div id="tab3" class="tab-pane fade">
+                                <div class="info title">
+                                    <h3>Schedule of working hours</h3>
+                                    <p>
+                                        Calling nothing end fertile for venture way boy. Esteem spirit temper too say adieus who direct esteem. It esteems luckily mr or picture placing drawing no. Apartments frequently or motionless on reasonable projecting expression. Way mrs end gave tall walk fact bed. 
+                                    </p>
+                                    <ul>
+                                        <li> <span> Mon - Tues :  </span>
+                                          <div class="pull-right"> 6.00 am - 10.00 pm </div>
+                                        </li>
+                                        <li> <span> Wednes - Thurs :</span>
+                                          <div class="pull-right"> 8.00 am - 6.00 pm </div>
+                                        </li>
+                                        <li> <span> Sun : </span>
+                                          <div class="pull-right closed"> Closed </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <!-- End Single Item -->
+
+                        </div>
+                        <!-- End Tab Content -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End About -->
+
+    <!-- Start Services 
+    ============================================= -->
+    <div class="services-area inc-icon bg-gray carousel-shadow default-padding" id="register">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <div class="site-heading text-center">
+                        <h2>Centres of <span>Excellence</span></h2>
+                        <p>
+                            While mirth large of on front. Ye he greater related adapted proceed entered an. Through it examine express promise no. Past add size game cold girl off how old
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="services-items text-center services-carousel owl-carousel owl-theme">
+                        <!-- Single Item -->
+                        <div class="item">
+                            <div class="info">
+                                <h4>
+                                    <a href="#">Body Surgery</a>
+                                </h4>
+                                <div class="overlay">
+                                    <i class="flaticon-medical"></i>
+                                </div>
+                                <p>
+                                    Attachment astonished to on appearance imprudence so collecting in excellence. Tiled way blind lived whose new. The for fully had she there leave merit enjoy forth.
+                                </p>
+                                <a class="btn btn-theme border circle btn-md" href="#">Read More</a>
+                            </div>
+                        </div>
+                        <!-- End Single Item -->
+                        <!-- Single Item -->
+                        <div class="item">
+                            <div class="info">
+                                <h4>
+                                    <a href="#">Dental Care</a>
+                                </h4>
+                                <div class="overlay">
+                                    <i class="flaticon-anesthesia"></i>
+                                </div>
+                                <p>
+                                    Attachment astonished to on appearance imprudence so collecting in excellence. Tiled way blind lived whose new. The for fully had she there leave merit enjoy forth.
+                                </p>
+                                <a class="btn btn-theme border circle btn-md" href="#">Read More</a>
+                            </div>
+                        </div>
+                        <!-- End Single Item -->
+                        <!-- Single Item -->
+                        <div class="item">
+                            <div class="info">
+                                <h4>
+                                    <a href="#">Eye Care</a>
+                                </h4>
+                                <div class="overlay">
+                                    <i class="flaticon-anatomy"></i>
+                                </div>
+                                <p>
+                                    Attachment astonished to on appearance imprudence so collecting in excellence. Tiled way blind lived whose new. The for fully had she there leave merit enjoy forth.
+                                </p>
+                                <a class="btn btn-theme border circle btn-md" href="#">Read More</a>
+                            </div>
+                        </div>
+                        <!-- End Single Item -->
+                        <!-- Single Item -->
+                        <div class="item">
+                            <div class="info">
+                                <h4>
+                                    <a href="#">Blood Cancer</a>
+                                </h4>
+                                <div class="overlay">
+                                    <i class="flaticon-lung-cancer"></i>
+                                </div>
+                                <p>
+                                    Attachment astonished to on appearance imprudence so collecting in excellence. Tiled way blind lived whose new. The for fully had she there leave merit enjoy forth.
+                                </p>
+                                <a class="btn btn-theme border circle btn-md" href="#">Read More</a>
+                            </div>
+                        </div>
+                        <!-- End Single Item -->
+                        <!-- Single Item -->
+                        <div class="item">
+                            <div class="info">
+                                <h4>
+                                    <a href="#">Neurology Sargery</a>
+                                </h4>
+                                <div class="overlay">
+                                    <i class="flaticon-thinking"></i>
+                                </div>
+                                <p>
+                                    Attachment astonished to on appearance imprudence so collecting in excellence. Tiled way blind lived whose new. The for fully had she there leave merit enjoy forth.
+                                </p>
+                                <a class="btn btn-theme border circle btn-md" href="#">Read More</a>
+                            </div>
+                        </div>
+                        <!-- End Single Item -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Services -->
+
+    <!-- Start Why Chose Us 
+    ============================================= -->
+    <div class="chose-us-area item-half" id="a">
+        <div class="container-full">
+            <div class="row">
+                <div class="col-md-6 thumb bg-cover" style="background-image: url(assets/img/marcelo-leal-6pcGTJDuf6M-unsplash.jpg);"></div>
+                <div class="col-md-6 info">
+                    <div class="heading">
+                        <h2>Why Chose us</h2>
+                        <p>
+                            Offering confined entrance no. Nay rapturous him see something residence. Highly talked do so vulgar. Her use behaved spirits and natural attempt say feeling. Exquisite mr incommode immediate he something ourselves it of. Law conduct yet chiefly beloved examine village proceed
+                        </p>
+                    </div>
+                    <ul>
+                        <li>
+                            <div class="info">
+                                <h4>Qualified facilities</h4>
+                                <p>
+                                    Consider may dwelling old him her surprise finished families graceful. Gave led past poor met fine was new. 
+                                </p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="info">
+                                <h4>Top Level Doctors</h4>
+                                <p>
+                                    Consider may dwelling old him her surprise finished families graceful. Gave led past poor met fine was new. 
+                                </p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="info">
+                                <h4>Dedicated patient care</h4>
+                                <p>
+                                    Consider may dwelling old him her surprise finished families graceful. Gave led past poor met fine was new. 
+                                </p>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="info">
+                                <h4>24/7 Emergency</h4>
+                                <p>
+                                    Consider may dwelling old him her surprise finished families graceful. Gave led past poor met fine was new. 
+                                </p>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Why Chose Us -->
+
+    <!-- Start Doctors Tips 
+    ============================================= -->
+    <div class="doctor-tips-area default-padding bg-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <div class="site-heading text-center">
+                        <h2>Health <span>Tips</span></h2>
+                        <p>
+                            While mirth large of on front. Ye he greater related adapted proceed entered an. Through it examine express promise no. Past add size game cold girl off how old
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="health-tips-items tips-carousel owl-carousel owl-theme">
+                    <!-- Single Item -->
+                    <div class="single-item">
+                        <div class="col-md-5">
+                            <div class="thumb">
+                                <img src="assets/img/humberto-chavez-FVh_yqLR9eA-unsplash.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="col-md-7">
+                            <div class="info">
+                                <div class="doctor">
+                                    <h4>Dr. Jessica Ronal</h4>
+                                    <h5>MPH, Medicine, Surgery</h5>
+                                </div>
+                                <h3>How to live a healthy lifestyle?</h3>
+                                <p>
+                                    Frequently partiality possession resolution at or appearance unaffected he me. Engaged its was evident pleased husband. Ye goodness felicity do disposal dwelling no. First am plate jokes to began of cause an scale. Subjects he prospect elegance followed no overcame possible it on. 
+                                </p>
+                                <h4>Follow the instructions</h4>
+                                <ul>
+                                    <li>Dont just worry about the things you cannot help.</li>
+                                    <li>Eat Healthy, work better, do gardening.</li>
+                                    <li>Some relationships can kill you. Avoid them at the most.</li>
+                                    <li>Focus on the good things that you like</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+                    <!-- Single Item -->
+                    <div class="single-item">
+                        <div class="col-md-5">
+                            <div class="thumb">
+                                <img src="assets/img/curious-and-pleased-creative-handsome-dreamy-adul-2022-01-28-10-02-34-utc.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="col-md-7">
+                            <div class="info">
+                                <div class="doctor">
+                                    <h4>Dr. Jessica Ronal</h4>
+                                    <h5>MPH, Medicine, Surgery</h5>
+                                </div>
+                                <h3>How to live a healthy lifestyle?</h3>
+                                <p>
+                                    Frequently partiality possession resolution at or appearance unaffected he me. Engaged its was evident pleased husband. Ye goodness felicity do disposal dwelling no. First am plate jokes to began of cause an scale. Subjects he prospect elegance followed no overcame possible it on. 
+                                </p>
+                                <h4>Follow the instructions</h4>
+                                <ul>
+                                    <li>Dont just worry about the things you cannot help.</li>
+                                    <li>Eat Healthy, work better, do gardening.</li>
+                                    <li>Some relationships can kill you. Avoid them at the most.</li>
+                                    <li>Focus on the good things that you like</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+                    <!-- Single Item -->
+                    <div class="single-item">
+                        <div class="col-md-5">
+                            <div class="thumb">
+                                <img src="assets/img/curious-and-pleased-creative-handsome-dreamy-adul-2022-01-28-10-02-34-utc.jpg" alt="">
+                            </div>
+                        </div>
+                        <div class="col-md-7">
+                            <div class="info">
+                                <div class="doctor">
+                                    <h4>Dr. Jessica Ronal</h4>
+                                    <h5>MPH, Medicine, Surgery</h5>
+                                </div>
+                                <h3>How to live a healthy lifestyle?</h3>
+                                <p>
+                                    Frequently partiality possession resolution at or appearance unaffected he me. Engaged its was evident pleased husband. Ye goodness felicity do disposal dwelling no. First am plate jokes to began of cause an scale. Subjects he prospect elegance followed no overcame possible it on. 
+                                </p>
+                                <h4>Follow the instructions</h4>
+                                <ul>
+                                    <li>Dont just worry about the things you cannot help.</li>
+                                    <li>Eat Healthy, work better, do gardening.</li>
+                                    <li>Some relationships can kill you. Avoid them at the most.</li>
+                                    <li>Focus on the good things that you like</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Doctors Tips -->
+
+    <!-- Start Doctors 
+    ============================================= -->
+    <div class="doctor-area default-padding bottom-less" id="team">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <div class="site-heading text-center">
+                        <h2>Meet Our <span>Specialists</span></h2>
+                        <p>
+                            While mirth large of on front. Ye he greater related adapted proceed entered an. Through it examine express promise no. Past add size game cold girl off how old
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="doctor-items text-center">
+                    <!-- Single Item -->
+                    <div class="col-md-4 equal-height">
+                        <div class="item">
+                            <div class="thumb">
+                                <img src="assets/img/ani-kolleshi-7jjnJ-QA9fY-unsplash.jpg" alt="Thumb">
+                                <div class="overlay">
+                                    <a href="#"><i class="fas fa-plus"></i></a>
+                                </div>
+                                <div class="social">
+                                    <ul>
+                                        <li class="facebook">
+                                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                        </li>
+                                        <li class="twitter">
+                                            <a href="#"><i class="fab fa-twitter"></i></a>
+                                        </li>
+                                        <li class="instagram">
+                                            <a href="#"><i class="fab fa-instagram"></i></a>
+                                        </li>
+                                        <li class="linkedin">
+                                            <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="info">
+                                <h4>Jessica Jones</h4>
+                                <h5>Cardiologist</h5>
+                                <div class="appoinment-btn">
+                                    <a href="#">Make appoinment</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+                    <!-- Single Item -->
+                    <div class="col-md-4 equal-height">
+                        <div class="item">
+                            <div class="thumb">
+                                <img src="assets/img/rian-ramirez-rm7rZYdl3rY-unsplash.jpg" alt="Thumb">
+                                <div class="overlay">
+                                    <a href="#"><i class="fas fa-plus"></i></a>
+                                </div>
+                                <div class="social">
+                                    <ul>
+                                        <li class="facebook">
+                                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                        </li>
+                                        <li class="twitter">
+                                            <a href="#"><i class="fab fa-twitter"></i></a>
+                                        </li>
+                                        <li class="instagram">
+                                            <a href="#"><i class="fab fa-instagram"></i></a>
+                                        </li>
+                                        <li class="linkedin">
+                                            <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="info">
+                                <h4>Ahel Natasha</h4>
+                                <h5>Dental surgeon</h5>
+                                <div class="appoinment-btn">
+                                    <a href="#">Make appoinment</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+                    <!-- Single Item -->
+                    <div class="col-md-4 equal-height">
+                        <div class="item">
+                            <div class="thumb">
+                                <img src="assets/img/usman-yousaf-SakqLf78KVo-unsplash.jpg" alt="Thumb">
+                                <div class="overlay">
+                                    <a href="#"><i class="fas fa-plus"></i></a>
+                                </div>
+                                <div class="social">
+                                    <ul>
+                                        <li class="facebook">
+                                            <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                        </li>
+                                        <li class="twitter">
+                                            <a href="#"><i class="fab fa-twitter"></i></a>
+                                        </li>
+                                        <li class="instagram">
+                                            <a href="#"><i class="fab fa-instagram"></i></a>
+                                        </li>
+                                        <li class="linkedin">
+                                            <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="info">
+                                <h4>Gabriela Beckett</h4>
+                                <h5>Cosmetic Surgeon</h5>
+                                <div class="appoinment-btn">
+                                    <a href="#">Make appoinment</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Single Item -->
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Doctors -->
+
+    <!-- Start Testimonials 
+    ============================================= -->
+    <div class="testimonials-area carousel-shadow bg-gray default-padding" id="testimoni">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <div class="site-heading text-center">
+                        <h2>Patient <span>Testimonials</span></h2>
+                        <p>
+                            While mirth large of on front. Ye he greater related adapted proceed entered an. Through it examine express promise no. Past add size game cold girl off how old
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="testimonial-items testimonial-carousel owl-carousel owl-theme">
+                        <!-- Single Item -->
+                        <div class="item">
+                            <div class="content">
+                                <p>
+                                    Departure so attention pronounce satisfied daughters am. But shy tedious pressed studied opinion entered windows off. Advantage dependent suspicion convinced provision him yet. Mr immediate remaining conveying allowance do or. 
+                                </p>
+                            </div>
+                            <div class="provider">
+                                <div class="thumb">
+                                    <img src="assets/img/curious-and-pleased-creative-handsome-dreamy-adul-2022-01-28-10-02-34-utc.jpg" alt="Thumb">
+                                </div>
+                                <div class="info">
+                                    <h4>Angle Natasha</h4>
+                                    <h5>patient of <span>surgery</span></h5>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Single Item -->
+                        <!-- Single Item -->
+                        <div class="item">
+                            <div class="content">
+                                <p>
+                                    Departure so attention pronounce satisfied daughters am. But shy tedious pressed studied opinion entered windows off. Advantage dependent suspicion convinced provision him yet. Mr immediate remaining conveying allowance do or. 
+                                </p>
+                            </div>
+                            <div class="provider">
+                                <div class="thumb">
+                                    <img src="assets/img/curious-and-pleased-creative-handsome-dreamy-adul-2022-01-28-10-02-34-utc.jpg" alt="Thumb">
+                                </div>
+                                <div class="info">
+                                    <h4>John Abraham</h4>
+                                    <h5>Dental <span>patients</span></h5>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Single Item -->
+                        <!-- Single Item -->
+                        <div class="item">
+                            <div class="content">
+                                <p>
+                                    Departure so attention pronounce satisfied daughters am. But shy tedious pressed studied opinion entered windows off. Advantage dependent suspicion convinced provision him yet. Mr immediate remaining conveying allowance do or. 
+                                </p>
+                            </div>
+                            <div class="provider">
+                                <div class="thumb">
+                                    <img src="assets/img/excited-pleased-and-surprised-handsome-bearded-ad-2022-01-28-10-03-09-utc.jpg" alt="Thumb">
+                                </div>
+                                <div class="info">
+                                    <h4>Kriti Sairi</h4>
+                                    <h5>patient of <span>surgery</span></h5>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Single Item -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Testimonials -->
+
+    <!-- Start Blog 
+    ============================================= -->
+    <div class="blog-area default-padding" id="obat">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <div class="site-heading text-center">
+                        <h2>Medicine <span>Information</span> and <span>Delivery</span></h2>
+                        <p>
+                            While mirth large of on front. Ye he greater related adapted proceed entered an. Through it examine express promise no. Past add size game cold girl off how old
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-2 text-center">
+                    <div class="medicine-image">
+                        <img src="image/losartan.png" alt="Nama Obat 1" style="border: none; width: 130px; height: 130px;">
+                        <div style="display: flex; align-items: center; justify-content: space-between;">
+                            <p style="margin-right: 10px;">Nama Obat 1</p>
+                            <button class="payment-button" style="background: none; border: none; font-size: 20px; cursor: pointer;">+</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-2 text-center">
+                    <div class="medicine-image">
+                        <img src="image/panadol.png" alt="Nama Obat 2" style="border: none; width: 130px; height: 130px;">
+                        <div style="display: flex; align-items: center; justify-content: space-between;">
+                            <p style="margin-right: 10px;">Nama Obat 2</p>
+                            <button class="payment-button" style="background: none; border: none; font-size: 20px; cursor: pointer;">+</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-2 text-center">
+                    <div class="medicine-image">
+                        <img src="image/gaviscon.png" alt="Nama Obat 3" style="border: none; width: 130px; height: 130px;">
+                        <div style="display: flex; align-items: center; justify-content: space-between;">
+                            <p style="margin-right: 10px;">Nama Obat 3</p>
+                            <button class="payment-button" style="background: none; border: none; font-size: 20px; cursor: pointer;">+</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-2 text-center">
+                    <div class="medicine-image">
+                        <img src="image/cold.png" alt="Nama Obat 4" style="border: none; width: 130px; height: 130px;">
+                        <div style="display: flex; align-items: center; justify-content: space-between;">
+                            <p style="margin-right: 10px;">Nama Obat 4</p>
+                            <button class="payment-button" style="background: none; border: none; font-size: 20px; cursor: pointer;">+</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-2 text-center">
+                    <div class="medicine-image">
+                        <img src="image/apogen.png" alt="Nama Obat 5" style="border: none; width: 130px; height: 130px;">
+                        <div style="display: flex; align-items: center; justify-content: space-between;">
+                            <p style="margin-right: 10px;">Nama Obat 5</p>
+                            <button class="payment-button" style="background: none; border: none; font-size: 20px; cursor: pointer;">+</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    
+    <!-- End Blog -->
+
+    <!-- Start Newsletter 
+    ============================================= -->
+    <div class="newsletter-area default-padding shadow dark bg-fixed text-center text-light" style="background-image: url(assets/img/hush-naidoo-jade-photography-yo01Z-9HQAw-unsplash.jpg);">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h4>Subscribe For Get Update</h4>
+                    <h2>Let’s Find An Office Near You.</h2>
+                    <form action="#">
+                        <div class="input-group stylish-input-group">
+                            <input type="email" name="email" class="form-control" placeholder="Enter your e-mail here">
+                            <button type="submit">
+                                <i class="fa fa-paper-plane"></i>
+                            </button>  
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Newsletter -->
+
+    <!-- Start Footer 
+    ============================================= -->
+    <footer>
+
+        <div class="container" id="about">
+            <div class="row">
+                <div class="f-items default-padding">
+                    <!-- Single Item 1 -->
+                    <div class="col-md-4">
+                        <div class="f-item">
+                            <h4>About</h4>
+                            <p>
+                                Excellence decisively nay man yet impression for contrasted remarkably. There spoke happy
+                                for you are out. Fertile how old address.
+                            </p>
+                            <h2><i class="fas fa-phone"></i> +62 897 896</h2>
+                            <div class="opening-info">
+                                <h5>Opening Hours</h5>
+                                <ul>
+                                    <li>
+                                        <span> Mon - Tues : </span>
+                                        <div class="pull-right"> 6.00 am - 10.00 pm </div>
+                                    </li>
+                                    <li>
+                                        <span> Wednes - Thurs :</span>
+                                        <div class="pull-right"> 8.00 am - 6.00 pm </div>
+                                    </li>
+                                    <li>
+                                        <span> Sun : </span>
+                                        <div class="pull-right closed"> Closed </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- End Single Item 1 -->
+    
+                    
+                    <!-- Payment Methods -->
+                    <div class="col-md-4">
+                        <div class="payment-methods">
+                            <h4>Payment Methods</h4>
+                            <div class="payment-methods-container">
+                                <img src="image/mastercard.png" alt="Payment Method 1" width="100" height="50">
+                                <img src="image/paypal.png" alt="Payment Method 2" width="100" height="50">
+                                <!-- Tambahkan gambar metode pembayaran lainnya -->
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- End Payment Methods -->
+                 <!-- Single Item 2 -->
+                 <div class="col-md-4">
+                    <div class="container">
+                        <div class="row">
+                            <div class="google-maps">
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d14767.262289338461!2d70.79414485000001!3d22.284975!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1424308883981"></iframe>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Single Item 2 -->
+               <div id="customer-service-popup">
+            <img src="image/Bot.png" alt="Customer Service" width="50" height="50">
+        </div>
+                
+                </div>
+            </div>
+        </div>
+        
+        <!-- ... Konten footer lainnya ... -->
+    </footer>
+    
+        <!-- End Google Maps -->
+                    <!-- End Single Item -->
+                    
+                    <!-- End Single Item -->
+                </div>
+            </div>
+        </div>
+        <!-- Start Footer Bottom -->
+        <div class="footer-bottom bg-dark text-light">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <p>&copy; Copyright 2023. All Rights Reserved by <a href="#">hellohealth</a></p>
+                    </div>
+                    <div class="col-md-6 text-right link">
+                        <ul>
+                            <li>
+                                <a href="#">Terms of user</a>
+                            </li>
+                            <li>
+                                <a href="#">License</a>
+                            </li>
+                            <li>
+                                <a href="#">Support</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+				 
+            </div>
+        </div>
+		 
+        <!-- End Footer Bottom -->
+    </footer>
+    <!-- End Footer -->
+   <style>
+        #customer-service-popup {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background-color: none	;
+            padding: 10px;
+            border-radius: none;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+            cursor: pointer;
+            display: none;
+            z-index: 9999;
+            max-width: 200px;
+        }
+
+        #customer-service-popup img {
+            width: 100%;
+            height: auto;
+        }
+
+        #customer-service-popup.show {
+            display: block;
+        }
+    </style>
+	  <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            var popup = document.getElementById("customer-service-popup");
+
+            // Tambahkan event click pada popup untuk menampilkan atau menyembunyikan
+            popup.addEventListener("click", function() {
+                popup.style.display = "none";
+            });
+
+            // Tampilkan popup setelah beberapa detik (misalnya setelah 5 detik)
+            setTimeout(function() {
+                popup.classList.add("show");
+            }, 5000);
+        });
+    </script>
+    <!-- jQuery Frameworks
+    ============================================= -->
+    <script src="assets/js/jquery-1.12.4.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/equal-height.min.js"></script>
+    <script src="assets/js/jquery.appear.js"></script>
+    <script src="assets/js/jquery.easing.min.js"></script>
+    <script src="assets/js/jquery.magnific-popup.min.js"></script>
+    <script src="assets/js/modernizr.custom.13711.js"></script>
+    <script src="assets/js/owl.carousel.min.js"></script>
+    <script src="assets/js/wow.min.js"></script>
+    <script src="assets/js/isotope.pkgd.min.js"></script>
+    <script src="assets/js/imagesloaded.pkgd.min.js"></script>
+    <script src="assets/js/count-to.js"></script>
+    <script src="assets/js/YTPlayer.min.js"></script>
+    <script src="assets/js/jquery.nice-select.min.js"></script>
+    <script src="assets/js/bootsnav.js"></script>
+    <script src="assets/js/main.js"></script>
+
+</body>
+</html>
